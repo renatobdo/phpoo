@@ -1,5 +1,5 @@
-create database cafebistro_phpoo_turmaB;
-use cafebistro_phpoo_turmaB;
+create database cafebistro;
+use cafebistro;
 create table usuario (id int 
 auto_increment primary key,
 nome varchar(255),
